@@ -1,0 +1,2 @@
+Hello we are reading fileThe write string is written!..
+The write string is written!..

@@ -1,0 +1,7 @@
+Hello, ReadStream is writting to writeStream
+Hello, ReadStream is writting to writeStream
+Hello, ReadStream is writting to writeStream
+Hello, ReadStream is writting to writeStream
+Hello, ReadStream is writting to writeStream
+Hello, ReadStream is writting to writeStream
+Hello, ReadStream is writting to writeStream

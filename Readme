@@ -1,0 +1,36 @@
+Nodejs is writen in C++
+V8 is written in C++
+Nodejs is developed on top of V8
+
+javascript - > My C++ Program (V8) {Nodejs}-> Machine Code
+
+https://github.com/joyent
+https://nodejs.org/en/
+https://nodejs.org/docs/latest-v15.x/api/ - nodejs api's
+C++ Core libuv is the library to listen to System Events
+Custom Events
+https://babeljs.io/ Babel is a JavaScript compiler.
+System Events - libuv - https://libuv.org/ (un_run function is the event loop)
+https://semver.org/ - Semantic Versioning
+https://www.npmjs.com/ - 
+npm init //creates package.json file
+npm i moment --save //save moment package in package.json file
+https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
+npm update
+
+npm install -g nodemon //to install nodemon globally
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser //Run in power shell to solve windows permission issues on running nodemon
+
+Express JS Documentation
+Routing - http://expressjs.com/en/guide/routing.html
+Middleware - http://expressjs.com/en/resources/middleware.html
+Template Engines - http://expressjs.com/en/guide/using-template-engines.html
+EJS Template Engine - https://ejs.co/ npm install ejs --save or handlebars
+Express Generator : http://expressjs.com/en/starter/generator.html
+MongoDB - https://www.mongodb.com/
+
+Password of mongo db : OMzk9zsKL3p4g4cv
+Connection Link : mongosh "mongodb+srv://mean.1ayhi.mongodb.net/myFirstDatabase" --username sachaduv
+//mongodb+srv://sachaduv:<password>@mean.1ayhi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+Mongoose :  https://mongoosejs.com/docs/
+npm install mongoose --save
